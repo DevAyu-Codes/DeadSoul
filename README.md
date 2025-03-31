@@ -1,5 +1,5 @@
 # DeadSoul-v0.5
-This is a visual novel created by Ayush for someone special.
+This is a visual novel created by Ayu for someone special.
 
 This visual novel is based on a fictional story and the characters are created in order to match the story. The sprites(characters) used in this game are taken from online sources and none of them belongs to me.
 
